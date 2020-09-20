@@ -11,7 +11,8 @@ int fib(int n){
 }
 
 int main(){
-    int num , i=0;
+    int num ;
+    int i=0;
     cout<<"Enter the number of terms: ";
     cin>>num;
     while(i<num){
